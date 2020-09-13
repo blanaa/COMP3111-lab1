@@ -20,4 +20,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>lab1_screenshot.png</name>
+			<type>1</type>
+			<location>D:/Eclipse/workspace/Lab01/lab1_screenshot.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
